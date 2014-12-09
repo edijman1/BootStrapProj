@@ -1,6 +1,9 @@
 @charset "utf-8";
 /*Home Image*/
 /* Footer */
+#searchBar{
+	padding-bottom:10px;
+}
 #artisan_icon{
 	margin:2px 2px 2px 2px;
 	background-color:#CCC;
